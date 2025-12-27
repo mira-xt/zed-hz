@@ -1,0 +1,23 @@
+id = "hz-theme"
+name = "HZ Theme"
+version = "2025.12.27"
+schema_version = 1
+description = "Minimal black theme for Zed"
+repository = "https://github.com/mira-xt/zed-hz-theme"
+authors = ["mira-xt"]
+themes = ["themes/hz.json"]
+icon_themes = []
+languages = []
+capabilities = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[context_servers]
+
+[slash_commands]
+
+[indexed_docs_providers]
